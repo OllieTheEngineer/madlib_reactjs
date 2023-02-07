@@ -1,0 +1,24 @@
+h1 {
+    background: black;
+    margin: 0 auto;
+    color: white;
+    font-size: 250%;
+}
+
+h2 {
+    font-style: italic;
+    color: blue;
+    font-weight: 900;
+}
+
+label {
+    margin: 4px auto;
+}
+
+button {
+    margin-top: 10px;
+}
+
+input{
+    margin-left: 15px;
+}
